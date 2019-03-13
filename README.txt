@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/allieburns/pen/WPzwyB.
-
- 
+A simple and clean homepage for a fashion blog using HTML, CSS & Bootstrap.
